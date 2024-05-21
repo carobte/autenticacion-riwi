@@ -1,11 +1,53 @@
 {
-    "users": [
-        {
-            "id": "ad2",
-            "username": "Caro",
-            "lastname": "Bte",
-            "email": "example@example.com",
-            "password": "123" 
-        }
-    ]
+  "users": [
+    {
+      "id": "ad2",
+      "username": "Caro",
+      "lastName": "Bte",
+      "email": "example@example.com",
+      "password": "123"
+    },
+    {
+      "id": "ad3",
+      "username": "Caro",
+      "lastName": "Bte",
+      "email": "example3@example.com",
+      "password": "123"
+    },
+    {
+      "id": "ad4",
+      "username": "Caro",
+      "lastName": "Bte",
+      "email": "example4@example.com",
+      "password": "123"
+    },
+    {
+      "id": "ec5a",
+      "username": "s",
+      "lastName": "s",
+      "email": "s@email.com",
+      "password": "123"
+    },
+    {
+      "id": "9e64",
+      "username": "Marlon",
+      "lastName": "P",
+      "email": "marlon@example.com",
+      "password": "123"
+    },
+    {
+      "id": "a805",
+      "username": "santi",
+      "lastName": "2",
+      "email": "santi@a.com",
+      "password": "1234"
+    },
+    {
+      "id": "351b",
+      "username": "caro",
+      "lastName": "bte",
+      "email": "caro@email222.com",
+      "password": "1234"
+    }
+  ]
 }
